@@ -1,0 +1,6 @@
+{
+  "name": "HPP Pro — Kalkulator HPP & Keuntungan Usaha",
+  "description": "Kalkulator HPP, penentu harga jual, dan estimasi keuntungan usaha praktis untuk UMKM, penjual online, dan pebisnis pemula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
